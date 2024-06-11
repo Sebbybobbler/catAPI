@@ -1,7 +1,8 @@
 ### Cat API
 
-An API with user interface built entirely in the backend, click this link to explore various API endpoints: https://catapi-pf3j.onrender.com/
+An API with user interface built entirely in the backend. Built using JavaScript Express framework.
 
+click this link to explore various API endpoints: https://catapi-pf3j.onrender.com/
 
 https://catapi-pf3j.onrender.com/allcats - to get all the cats in the database 
 
